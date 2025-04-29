@@ -1,0 +1,19 @@
+body{
+    font-family: "Montserrat", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 400;
+    font-style: normal;
+}
+/* pour le pricing card */
+/* @media (min-width:800px) {
+    .container{
+        width: 800px;
+    }
+} */
+/* Rating Components */
+@media (max-width:767px) {
+    .user-menu{
+        justify-content: center !important;
+        margin-top: 20px;
+    }
+}
